@@ -48,7 +48,7 @@ class JabezBodkhe:
 - SQL validation pipeline
 - ~92% SQL accuracy
 
-### 🛡️ Guardian AI
+### 🛡️ Phishgaurd
 - AI-powered phishing detection platform
 - Machine Learning
 - FastAPI
