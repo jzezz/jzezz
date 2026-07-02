@@ -189,7 +189,5 @@ Natural Language → SQL using Gemini API & Vanna AI.
 
 ⭐ Thanks for visiting!
 
-</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient)
 
